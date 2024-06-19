@@ -169,7 +169,7 @@ _Q: Can I copy code from other submissions?_\
 A: Yes, you can. The primary focus of the challenge is about learning something new, rather than "winning". When you do so, please give credit to the relevant source submissions. Please don't re-submit other entries with no or only trivial improvements.
 
 _Q: Which operating system is used for evaluation?_\
-A: macOS Sonoma 14 (see [Evaluating Results](#evaluating-results))
+A: macOS Sonoma 14 (see [Evaluating Results](#results))
 
 _Q: My solution runs in 2 sec on my machine. Am I the fastest 1BRC-er in the world?_\
 A: Probably not :) 1BRC results are reported in wallclock time, thus results of different implementations are only comparable when obtained on the same machine. If for instance an implementation is faster on a 32 core workstation than on the 8 core evaluation instance, this doesn't allow for any conclusions. When sharing 1BRC results, you should also always share the result of running the baseline implementation on the same hardware.
